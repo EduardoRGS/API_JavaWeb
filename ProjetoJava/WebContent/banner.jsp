@@ -1,0 +1,1 @@
+<img src="imagens/banner2.jpg" alt="" title="Banner" width="100%" height="500px">
