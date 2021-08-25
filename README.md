@@ -4,3 +4,8 @@
 <p align="left">Ultilizando: Servidor: Apache TomCat v8.5</p>
 <p align="left">Básico de HTML, CSS (bootsrap), JavaScript e DataTables</p>
 <p align="left">Java,Servlets, JSTL e JSP </p></br>
+
+<p align="left">Para fazer o login no Projeto 
+  login: admin 
+  senha: 123
+<p/>
