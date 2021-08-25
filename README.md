@@ -9,7 +9,7 @@
 
 <p align="left">Java,Servlets, JSTL e JSP </p>
 
-<p align="left">Para fazer o login no Projeto><p/><br>
+<p align="left">Para fazer o login no Projeto<p/><br>
 <p align="left">
   login: admin <br/>
   senha: 123
