@@ -193,7 +193,8 @@ INSERT INTO `menu`(`idMenu`, `nome`, `link`, `icone`, `exibir`) VALUES
 ("20","Deletar Produto","gerenciar_produto.do?acao=deletar","","2"),
 ("21","Cadastrar Cliente","form_cliente.jsp","","2"),
 ("22","Alterar Cliente","gerenciar_cliente.do?acao=alterar","","2"),
-("23","Deletar Cliente","gerenciar_cliente.do?acao=deletar","","2");
+("23","Deletar Cliente","gerenciar_cliente.do?acao=deletar","","2"),
+("24","Listar Vendas","listar_venda.jsp","","2");
 
 
 
