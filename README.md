@@ -1,16 +1,18 @@
-# First_Project_JavaWeb
-<h1 align="center">Meu Primeiro Projeto em JavaWeb</h1>
+<h2 lign="center">Minha Pimeira api JavaWeb</h2
 
-<p align="left">Ultilizando: Banco de Dados MySQL</p>
-<p aling="left">MySQL workbench</p>
+> Status: Ainda em Desenvolvimento ⚠️
 
-<p align="left">Ultilizando: Servidor: Apache TomCat v8.5</p>
+### Nesse Proejeto Ultilizei os seguintes softwares e tecnologias
+1. Banco de Dados MySQL (MySQL WorkBench)
+2. Servidor: Apache TomCat v8.5
+3. Básico de HTML, CSS, JavaScript e DataTables
+4. Java,Servlets, JSTL e JSP
 
-<p align="left">Básico de HTML, CSS (bootsrap), JavaScript e DataTables</p>
+## ⚠️Antes de inicar o projeto, por favor rode o seguinte script no MySQL WorkBench
+URL: https://github.com/EduardoRGS/First_Project_JavaWeb/tree/master/ProjetoJava/WebContent/dataBase
 
-<p align="left">Java,Servlets, JSTL e JSP </p>
-
-<p align="left">Para fazer o login no Projeto<p/><br>
+### Depois de rodar o script no mysql workbench
+#### Pazer o login 
 <p align="left">
   login: admin <br/>
   senha: 123
