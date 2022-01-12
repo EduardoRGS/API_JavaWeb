@@ -4,9 +4,10 @@
 
 ### Nesse Proejeto Ultilizei os seguintes softwares e tecnologias
 1. Banco de Dados MySQL (MySQL WorkBench)
-2. Servidor: Apache TomCat v8.5
-3. Básico de HTML, CSS, JavaScript e DataTables
-4. Java,Servlets, JSTL e JSP
+2. WampaServer
+3. Servidor: Apache TomCat v8.5
+4. Básico de HTML, CSS, JavaScript e DataTables
+5. Java,Servlets, JSTL e JSP
 
 ## ⚠️Antes de inicar o projeto, por favor rode o seguinte script no MySQL WorkBench
 URL: https://github.com/EduardoRGS/First_Project_JavaWeb/tree/master/ProjetoJava/WebContent/dataBase
