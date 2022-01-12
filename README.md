@@ -1,4 +1,4 @@
-<h2 lign="center">Minha Pimeira api JavaWeb</h2
+<h2 lign="center">Minha Pimeira API JavaWeb</h2
 
 > Status: Ainda em Desenvolvimento ⚠️
 
